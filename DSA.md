@@ -1,6 +1,6 @@
 ## *DSA Daily Practice*
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/classickartik/dsa-daily-prctice?color=red&logoColor=blue)
-![](https://tokei.rs/b1/github/ankitapuri/LeetCode-Practice)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/classickartik/dsa-daily-practice?color=red&logoColor=blue)
+![](https://tokei.rs/b1/github/classickartik/dsa-daily-practice)
 
 ### **July**
 | SNo. | Questions | Link |
