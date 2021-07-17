@@ -5,14 +5,14 @@
 ### **July**
 | Questions | Link |
 | - | - |
-| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [solution](December/day1.cpp) |
-| Linked List Random Node | [solution](December/day2.cpp) |
-| Increasing Order Search Tree | [solution](December/day3.cpp) |
-| The kth Factor of n | [solution](December/day4.cpp) |
-| Can place flowers | [solution](December/day5.cpp) |
-| Populating Next Right Pointers in Each Node II | [solution](December/day6.cpp) |
-| Spiral Matrix II | [solution](December/day7.cpp) |
-| Pairs of Songs With Total Durations Divisible by 60 | [solution](December/day8.cpp) |
+| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [solution](July/1.cpp) |
+| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [solution](July/2.cpp) |
+| [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [solution](July/3.cpp) |
+| [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [solution](July/4.cpp) |
+| [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [solution](July/5.cpp) |
+| Populating Next Right Pointers in Each Node II | [solution](July/6.cpp) |
+| Spiral Matrix II | [solution](July/7.cpp) |
+| Pairs of Songs With Total Durations Divisible by 60 | [solution](July/8.cpp) |
 | Binary Search Tree Iterator | [solution](December/day9.cpp) |
 | Valid Mountain Array | [solution](December/day10.cpp) |
 | Remove Duplicates from Sorted Array II | [solution](December/day11.cpp) |
