@@ -1,5 +1,3 @@
-Can Place Flowers (https://leetcode.com/problems/can-place-flowers/)
-
 class Solution {
 public:
     bool canPlaceFlowers(vector<int>& f, int n) {
