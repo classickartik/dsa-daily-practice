@@ -11,3 +11,13 @@
 | 4 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [solution](July/4.cpp) |
 | 5 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [solution](July/5.cpp) |
 | 6 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [solution](July/6.cpp) |
+| 7 | [Minimum Cost to Move Chips to The Same Position*](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [solution](July/7.cpp) |
+| 8 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [solution](July/8.cpp) |
+| 9 | []() | [solution](July/9.cpp) |
+| 10 | []() | [solution](July/10.cpp) |
+| 11 | []() | [solution](July/11.cpp) |
+| 12 | []() | [solution](July/12.cpp) |
+| 13 | []() | [solution](July/13.cpp) |
+| 14 | []() | [solution](July/14.cpp) |
+| 15 | []() | [solution](July/15.cpp) |
+| 16 | []() | [solution](July/16.cpp) |
