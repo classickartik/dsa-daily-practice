@@ -3,8 +3,8 @@
 ![](https://tokei.rs/b1/github/ankitapuri/LeetCode-Practice)
 
 ### **July**
-| Questions | Link |
-| - | - |
+| SNo. | Questions | Link |
+| - | - | - |
 | 1 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [solution](July/1.cpp) |
 | 2 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [solution](July/2.cpp) |
 | 3 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [solution](July/3.cpp) |
