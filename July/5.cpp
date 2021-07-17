@@ -1,5 +1,3 @@
-Lemonade Change (https://leetcode.com/problems/lemonade-change/)
-
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
