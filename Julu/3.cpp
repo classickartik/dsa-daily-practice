@@ -1,5 +1,3 @@
-Array Partition I (https://leetcode.com/problems/array-partition-i/)
-
 class Solution {
 public:
     int arrayPairSum(vector<int>& nums) {
