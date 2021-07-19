@@ -13,7 +13,7 @@
 | 6 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [solution](July/6.cpp) |
 | 7 | [Minimum Cost to Move Chips to The Same Position*](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [solution](July/7.cpp) |
 | 8 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [solution](July/8.cpp) |
-| 9 | []() | [solution](July/9.cpp) |
+| 9 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [solution](July/9.cpp) |
 | 10 | []() | [solution](July/10.cpp) |
 | 11 | []() | [solution](July/11.cpp) |
 | 12 | []() | [solution](July/12.cpp) |
