@@ -16,8 +16,8 @@
 | 9 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [solution](July/9.cpp) |
 | 10 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [solution](July/10.cpp) |
 | 11 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [solution](July/11.cpp) |
-| 12 | []() | [solution](July/12.cpp) |
-| 13 | []() | [solution](July/13.cpp) |
+| 12 | [Cricket Ranking](https://www.codechef.com/START6C/problems/CRICRANK) | [solution](July/12.cpp) |
+| 13 | [Three Dices](https://www.codechef.com/START6C/problems/THREDICE) | [solution](July/13.cpp) |
 | 14 | []() | [solution](July/14.cpp) |
 | 15 | []() | [solution](July/15.cpp) |
 | 16 | []() | [solution](July/16.cpp) |
