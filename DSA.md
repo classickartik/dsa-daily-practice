@@ -18,6 +18,6 @@
 | 11 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [solution](July/11.cpp) |
 | 12 | [Cricket Ranking](https://www.codechef.com/START6C/problems/CRICRANK) | [solution](July/12.cpp) |
 | 13 | [Three Dices](https://www.codechef.com/START6C/problems/THREDICE) | [solution](July/13.cpp) |
-| 14 | []() | [solution](July/14.cpp) |
-| 15 | []() | [solution](July/15.cpp) |
+| 14 | [Chess Format ](https://www.codechef.com/START7C/problems/CHSFORMT) | [solution](July/14.cpp) |
+| 15 | [Food Chain ](https://www.codechef.com/START7C/problems/FODCHAIN) | [solution](July/15.cpp) |
 | 16 | []() | [solution](July/16.cpp) |
