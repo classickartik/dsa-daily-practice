@@ -21,3 +21,13 @@
 | 14 | [Chess Format ](https://www.codechef.com/START7C/problems/CHSFORMT) | [solution](July/14.cpp) |
 | 15 | [Food Chain ](https://www.codechef.com/START7C/problems/FODCHAIN) | [solution](July/15.cpp) |
 | 16 | []() | [solution](July/16.cpp) |
+| 17 | []() | [solution](July/17.cpp) |
+| 18 | []() | [solution](July/18.cpp) |
+| 19 | []() | [solution](July/19.cpp) |
+| 20 | []() | [solution](July/20.cpp) |
+| 21 | []() | [solution](July/21.cpp) |
+| 22 | []() | [solution](July/22.cpp) |
+| 23 | []() | [solution](July/23.cpp) |
+| 24 | []() | [solution](July/24.cpp) |
+| 25 | []() | [solution](July/25.cpp) |
+| 26 | []() | [solution](July/26.cpp) |
