@@ -20,20 +20,19 @@
 | 13 | [Three Dices](https://www.codechef.com/START6C/problems/THREDICE) | [solution](July/13.cpp) |
 | 14 | [Chess Format ](https://www.codechef.com/START7C/problems/CHSFORMT) | [solution](July/14.cpp) |
 | 15 | [Food Chain ](https://www.codechef.com/START7C/problems/FODCHAIN) | [solution](July/15.cpp) |
-| 16 | []() | [solution](July/16.cpp) |
-| 17 | []() | [solution](July/17.cpp) |
-| 18 | []() | [solution](July/18.cpp) |
-| 19 | []() | [solution](July/19.cpp) |
-| 20 | []() | [solution](July/20.cpp) |
-| 21 | []() | [solution](July/21.cpp) |
-| 22 | []() | [solution](July/22.cpp) |
-| 23 | []() | [solution](July/23.cpp) |
-| 24 | []() | [solution](July/24.cpp) |
-| 25 | []() | [solution](July/25.cpp) |
-| 26 | []() | [solution](July/26.cpp) |
 
 ### **August**
 | SNo. | Questions | Link |
 | - | - | - |
 | 1 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [solution](August/1.java) |
-
+| 2 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [solution](August/2.java) |
+| 3 | []() | [solution](August/3.java) |
+| 4 | []() | [solution](August/4.java) |
+| 5 | []() | [solution](August/5.java) |
+| 6 | []() | [solution](August/6.java) |
+| 7 | []() | [solution](August/7.java) |
+| 8 | []() | [solution](August/8.java) |
+| 9 | []() | [solution](August/9.java) |
+| 10 | []() | [solution](August/10.java) |
+| 11 | []() | [solution](August/11.java) |
+| 12 | []() | [solution](August/12.java) |
