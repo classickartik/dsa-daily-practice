@@ -31,3 +31,9 @@
 | 24 | []() | [solution](July/24.cpp) |
 | 25 | []() | [solution](July/25.cpp) |
 | 26 | []() | [solution](July/26.cpp) |
+
+### **August**
+| SNo. | Questions | Link |
+| - | - | - |
+| 1 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [solution](August/1.java) |
+
