@@ -26,10 +26,10 @@
 | - | - | - |
 | 1 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [solution](August/1.java) |
 | 2 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [solution](August/2.java) |
-| 3 | []() | [solution](August/3.java) |
-| 4 | []() | [solution](August/4.java) |
-| 5 | []() | [solution](August/5.java) |
-| 6 | []() | [solution](August/6.java) |
+| 3 | [Ceiling of a number in a sorted array.]() | [solution](August/3.java) |
+| 4 | [Floor of a number in a sorted array.]() | [solution](August/4.java) |
+| 5 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [solution](August/5.java) |
+| 6 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [solution](August/6.java) |
 | 7 | []() | [solution](August/7.java) |
 | 8 | []() | [solution](August/8.java) |
 | 9 | []() | [solution](August/9.java) |
