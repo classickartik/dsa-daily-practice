@@ -35,4 +35,6 @@
 | 9 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [solution](August/9.java) |
 | 10 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [solution](August/10.java) |
 | 11 | [ Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [solution](August/11.java) |
+| 12 | [ Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [solution](August/12.java) |
+| 12 | []() | [solution](August/12.java) |
 | 12 | []() | [solution](August/12.java) |
