@@ -36,5 +36,48 @@
 | 10 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [solution](August/10.java) |
 | 11 | [ Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [solution](August/11.java) |
 | 12 | [ Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [solution](August/12.java) |
-| 12 | []() | [solution](August/12.java) |
-| 12 | []() | [solution](August/12.java) |
+
+### **September**
+| SNo. | Questions | Link |
+| - | - | - |
+| 1 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [solution](September/1.java) |
+| 2 | []() | [solution](September/2.java) |
+| 3 | []() | [solution](September/3.java) |
+| 4 | []() | [solution](September/4.java) |
+| 5 | []() | [solution](September/5.java) |
+| 6 | []() | [solution](September/6.java) |
+| 7 | []() | [solution](September/7.java) |
+| 8 | []() | [solution](September/8.java) |
+| 9 | []() | [solution](September/9.java) |
+| 10 | []() | [solution](September/10.java) |
+| 11 | []() | [solution](September/11.java) |
+| 12 | []() | [solution](September/12.java) |
+| 13 | []() | [solution](September/13.java) |
+| 14 | []() | [solution](September/14.java) |
+| 15 | []() | [solution](September/15.java) |
+| 16 | []() | [solution](September/16.java) |
+| 17 | []() | [solution](September/17.java) |
+| 18 | []() | [solution](September/18.java) |
+
+### **October**
+| SNo. | Questions | Link |
+| - | - | - |
+| 1 | []() | [solution](October/1.java) |
+| 2 | []() | [solution](October/2.java) |
+| 3 | []() | [solution](October/3.java) |
+| 4 | []() | [solution](October/4.java) |
+| 5 | []() | [solution](October/5.java) |
+| 6 | []() | [solution](October/6.java) |
+| 7 | []() | [solution](October/7.java) |
+| 8 | []() | [solution](October/8.java) |
+| 9 | []() | [solution](October/9.java) |
+| 10 | []() | [solution](October/10.java) |
+| 11 | []() | [solution](October/11.java) |
+| 12 | []() | [solution](October/12.java) |
+| 13 | []() | [solution](October/13.java) |
+| 14 | []() | [solution](October/14.java) |
+| 15 | []() | [solution](October/15.java) |
+| 16 | []() | [solution](October/16.java) |
+| 17 | []() | [solution](October/17.java) |
+| 18 | []() | [solution](October/18.java) |
+
