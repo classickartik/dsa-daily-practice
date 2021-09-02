@@ -41,8 +41,8 @@
 | SNo. | Questions | Link |
 | - | - | - |
 | 1 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [solution](September/1.java) |
-| 2 | []() | [solution](September/2.java) |
-| 3 | []() | [solution](September/3.java) |
+| 2 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](September/2.java) |
+| 3 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [solution](September/3.java) |
 | 4 | []() | [solution](September/4.java) |
 | 5 | []() | [solution](September/5.java) |
 | 6 | []() | [solution](September/6.java) |
