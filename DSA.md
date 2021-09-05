@@ -45,8 +45,8 @@
 | 3 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [solution](September/3.java) |
 | 4 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [solution](September/4.java) |
 | 5 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](September/5.java) |
-| 6 | []() | [solution](September/6.java) |
-| 7 | []() | [solution](September/7.java) |
+| 6 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [solution](September/6.java) |
+| 7 | [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [solution](September/7.java) |
 | 8 | []() | [solution](September/8.java) |
 | 9 | []() | [solution](September/9.java) |
 | 10 | []() | [solution](September/10.java) |
