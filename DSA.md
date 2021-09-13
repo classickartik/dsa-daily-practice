@@ -47,8 +47,8 @@
 | 5 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](September/5.java) |
 | 6 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [solution](September/6.java) |
 | 7 | [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [solution](September/7.java) |
-| 8 | []() | [solution](September/8.java) |
-| 9 | []() | [solution](September/9.java) |
+| 8 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](September/8.java) |
+| 9 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [solution](September/9.java) |
 | 10 | []() | [solution](September/10.java) |
 | 11 | []() | [solution](September/11.java) |
 | 12 | []() | [solution](September/12.java) |
