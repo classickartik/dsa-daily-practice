@@ -49,10 +49,10 @@
 | 7 | [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [solution](September/7.java) |
 | 8 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](September/8.java) |
 | 9 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [solution](September/9.java) |
-| 10 | []() | [solution](September/10.java) |
-| 11 | []() | [solution](September/11.java) |
-| 12 | []() | [solution](September/12.java) |
-| 13 | []() | [solution](September/13.java) |
+| 10 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [solution](September/10.java) |
+| 11 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [solution](September/11.java) |
+| 12 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [solution](September/12.java) |
+| 13 | [287. Find the Duplicate Number]() | [solution](September/13.java) |
 | 14 | []() | [solution](September/14.java) |
 | 15 | []() | [solution](September/15.java) |
 | 16 | []() | [solution](September/16.java) |
