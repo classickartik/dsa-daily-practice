@@ -21,6 +21,6 @@ class Solution {
             }    
         }
         // System.out.print(Arrays.toString(arr));
-        return 0;
+        return arr.length;
     }
 }
