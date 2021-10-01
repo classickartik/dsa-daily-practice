@@ -61,7 +61,7 @@
 | SNo. | Questions | Link |
 | - | - | - |
 | 1 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [solution](October/1.java) |
-| 2 | []() | [solution](October/2.java) |
+| 2 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [solution](October/2.java) |
 | 3 | []() | [solution](October/3.java) |
 | 4 | []() | [solution](October/4.java) |
 | 5 | []() | [solution](October/5.java) |
