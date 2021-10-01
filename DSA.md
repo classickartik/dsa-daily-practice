@@ -56,13 +56,11 @@
 | 14 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [solution](September/14.java) |
 | 15 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [solution](September/15.java) |
 | 16 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [solution](September/16.java) |
-| 17 | []() | [solution](September/17.java) |
-| 18 | []() | [solution](September/18.java) |
 
 ### **October**
 | SNo. | Questions | Link |
 | - | - | - |
-| 1 | []() | [solution](October/1.java) |
+| 1 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [solution](October/1.java) |
 | 2 | []() | [solution](October/2.java) |
 | 3 | []() | [solution](October/3.java) |
 | 4 | []() | [solution](October/4.java) |
